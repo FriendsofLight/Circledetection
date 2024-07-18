@@ -1,9 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T02:32:25.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.1" etag="KH4MXueedmfUZoAj9Vji" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T09:02:57.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fbICfOyA-wRnWrMEcPja" version="24.7.1" type="github">
   <diagram name="Trang-1" id="7I5TakukpGJHKjL8-30x">
-    <mxGraphModel>
+    <mxGraphModel dx="756" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="GQ-Tv65XWMKTHMrCsf23-1" target="GQ-Tv65XWMKTHMrCsf23-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-1" value="Khởi tạo các biến và thiết đặt tham số cổng giao tiếp số 4" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="GQ-Tv65XWMKTHMrCsf23-2" target="GQ-Tv65XWMKTHMrCsf23-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="GQ-Tv65XWMKTHMrCsf23-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="210" />
+              <mxPoint x="480" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-2" value="Đợi tín&amp;nbsp;&lt;div style=&quot;font-size: 14px;&quot;&gt;hiệu bám&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="GQ-Tv65XWMKTHMrCsf23-4" target="GQ-Tv65XWMKTHMrCsf23-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="GQ-Tv65XWMKTHMrCsf23-4" target="GQ-Tv65XWMKTHMrCsf23-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="330" />
+              <mxPoint x="520" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-4" value="Cập nhật toạ độ mục tiêu&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="GQ-Tv65XWMKTHMrCsf23-6" target="GQ-Tv65XWMKTHMrCsf23-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-6" value="Chuyển đổi ra lượng góc cần quay&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="GQ-Tv65XWMKTHMrCsf23-8" target="GQ-Tv65XWMKTHMrCsf23-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-8" value="Đọc vị trí tuyệt đối hiện tại của Pall-Til và&amp;nbsp; tính giá trị góc tuyệt đối cần quay tới" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="GQ-Tv65XWMKTHMrCsf23-10" target="GQ-Tv65XWMKTHMrCsf23-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-10" value="Chuyển đổi thành mã lệnh HEX" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-15" value="Không" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="187" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-16" value="Có" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-25" value="Toạ độ cũ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="307" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-26" value="Toạ độ mới" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="289" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="GQ-Tv65XWMKTHMrCsf23-27" target="GQ-Tv65XWMKTHMrCsf23-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="770" />
+              <mxPoint x="220" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="GQ-Tv65XWMKTHMrCsf23-27" target="GQ-Tv65XWMKTHMrCsf23-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-27" value="Kết thúc" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-31" value="Thoát" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="860" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-33" value="Có" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="339" y="820" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ-Tv65XWMKTHMrCsf23-34" value="Không" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="745" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
